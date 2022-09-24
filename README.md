@@ -114,7 +114,7 @@ $ code-packager \
     --tag-prefix "//" \
     --end-tag @end \
     --include @solution \
-    --exclude @first_exercise,@second_example
+    --exclude @first_exercise,@second_exercise
     source.rs \
     solution.rs
 ```
