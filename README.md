@@ -82,6 +82,7 @@ impl Foo {
     Self { bar }
   }
 }
+// @end
 ```
 
 Now we can generate the exercises and the solution like following:
